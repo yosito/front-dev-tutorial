@@ -9,8 +9,8 @@ https://www.udemy.com/course/front-dev-tutorial/learn/lecture/38733066
 HTML、CSS、JavaScriptを使用したWebサイト制作を通して、
 フロントエンド開発の基礎を学習することを目的として作成しました。
 
-## 🌐GitHub Pagesで公開予定。
-https://,,,
+## 🌐GitHub Pages
+https://yosito.github.io/front-dev-tutorial/
 
 ## 💻起動方法
 todo,,,
