@@ -13,4 +13,6 @@ HTML、CSS、JavaScriptを使用したWebサイト制作を通して、
 https://yosito.github.io/front-dev-tutorial/
 
 ## 💻起動方法
-todo,,,
+VSCode
+Live sass compiler
+Live Server
